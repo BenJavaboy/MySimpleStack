@@ -5,5 +5,8 @@ package bgag.MySimpleStack;
  */
 public class Pile {
 
+    public int size;
+
+
 
 }
