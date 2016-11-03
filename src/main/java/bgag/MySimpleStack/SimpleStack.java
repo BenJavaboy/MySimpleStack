@@ -1,4 +1,4 @@
-package bgag;
+package bgag.MySimpleStack;
 
 import java.util.EmptyStackException;
 
