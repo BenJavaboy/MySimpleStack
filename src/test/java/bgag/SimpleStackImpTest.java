@@ -27,7 +27,6 @@ public class SimpleStackImpTest  {
         simpleStack.push(new Item(new String(element1)));
         Assert.assertEquals(false,simpleStack.isEmpty());
 
-
     }
 
     @Test
